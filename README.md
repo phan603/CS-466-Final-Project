@@ -22,7 +22,7 @@ Once you have edited all lines of code and selected your RNA sequence, simply ru
 
 # Nussinov Algorithm Runtime and Space Complexity Running Instructions
 ### Installation:
-Download the Nussinov_Sequence_Algorithm.ipynb file from the repository homepage. Once downloaded, place the file into a folder stored wherever you like on your desktop, and run it in your code editor of choice (VSCode, Jupyter, Google Colab, etc.)
+Download the Nussinov_Benchmarking.py file from the repository homepage. Once downloaded, place the file into a folder stored wherever you like on your desktop, and run it in your code editor of choice (VSCode, Jupyter, Google Colab, etc.)
 
 Once you have the Python file open in your code editor, install all the required modules used in the file. All imports are shown at the top of the Python file. To install the modules, copy and paste this code into the Python file and run it. If you are using Google Colab, then there's no need to run the code below.
 ```
