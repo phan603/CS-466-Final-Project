@@ -16,5 +16,5 @@ To select your RNA sequence, you will need to edit lines 191, 204, and 206. In t
 
 Once you have edited all lines of code and selected your RNA sequence, simply run the code.
 
-## Nussinov Algorithm Runtime and Space Complexity Running Instructions
+# Nussinov Algorithm Runtime and Space Complexity Running Instructions
 here are the instructiosn for this
