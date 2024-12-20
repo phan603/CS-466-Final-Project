@@ -8,6 +8,7 @@ Download the Nussinov_Sequence_Algorithm.py file from the repository homepage. O
 Once you have the Python file open in your code editor, install all the required modules used in the file. All imports are shown at the top of the Python file.
 
 
+
 ### Usage:
 To run the program, scroll to line 182 of the Python file. There will be a comment that says, "Add your sequences here." Underneath, there will be 6 variables where you can input your desired RNA sequences as strings. 
 
