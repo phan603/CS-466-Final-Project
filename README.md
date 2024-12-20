@@ -3,7 +3,7 @@
 
 # Nussinov Sequence Backtrace and Visualization Running Instructions
 ### Installation:
-Download the Nussinov_Sequence_Algorithm.ipynb file from the repository homepage. Once downloaded, place the file into a folder stored wherever you like on your desktop, and run it in your code editor of choice (VSCode, Jupyter, etc.) If you are using Google Colab, then download the file, and import it into Google Colab.
+Download the Nussinov_Sequence_Algorithm.py file from the repository homepage. Once downloaded, place the file into a folder stored wherever you like on your desktop, and run it in your code editor of choice (VSCode, Jupyter, etc.) If you are using Google Colab, then download the Nussinov_Sequence_Algorithm.ipynb, and import it into Google Colab.
 
 Once you have the Python file open in your code editor, install all the required modules used in the file. All imports are shown at the top of the Python file. To install the modules, copy and paste this code into the Python file and run it. If you are using Google Colab, then there's no need to run the code below.
 ```
